@@ -1,4 +1,6 @@
 # JS-Game
 Author: Timurcan Erbulan
 
-Ein simples Spiel um Zeit zu verschwenden. Clicke den Kreis so schnell wie möglich um Punkte zu sammeln bevor die Zeit abläuft.
+Einfach "einfaches" Tic Tac Toe Spiel für Zeitvertreib.
+
+War doch nicht so einfach wie ich es mir vorgestellt hatte :D, aber mit Hilfe von Tutorials, Guides, StackOverflow und etwas KI unterstützung, hab ich mich doch zufrieden geben können.
